@@ -11,6 +11,7 @@
 		18A011F02C11841F004BA1D2 /* ItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A011EF2C11841F004BA1D2 /* ItemViewController.swift */; };
 		18A011F52C118492004BA1D2 /* ItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A011F42C118492004BA1D2 /* ItemTableViewCell.swift */; };
 		18A011F82C118542004BA1D2 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A011F72C118542004BA1D2 /* AddItemViewController.swift */; };
+		18C71FD32C13AF7900BF1CEE /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C71FD22C13AF7900BF1CEE /* Test.swift */; };
 		18D9E89B2C1159870022F3B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D9E89A2C1159870022F3B1 /* AppDelegate.swift */; };
 		18D9E89D2C1159870022F3B1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D9E89C2C1159870022F3B1 /* SceneDelegate.swift */; };
 		18D9E89F2C1159870022F3B1 /* CheckListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D9E89E2C1159870022F3B1 /* CheckListViewController.swift */; };
@@ -47,6 +48,7 @@
 		18A011EF2C11841F004BA1D2 /* ItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemViewController.swift; sourceTree = "<group>"; };
 		18A011F42C118492004BA1D2 /* ItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemTableViewCell.swift; sourceTree = "<group>"; };
 		18A011F72C118542004BA1D2 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
+		18C71FD22C13AF7900BF1CEE /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		18D9E8972C1159870022F3B1 /* CheckListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CheckListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D9E89A2C1159870022F3B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18D9E89C2C1159870022F3B1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -151,6 +153,7 @@
 				18D9E8A32C11598C0022F3B1 /* Assets.xcassets */,
 				18D9E8A52C11598C0022F3B1 /* LaunchScreen.storyboard */,
 				18D9E8A82C11598C0022F3B1 /* Info.plist */,
+				18C71FD22C13AF7900BF1CEE /* Test.swift */,
 			);
 			path = CheckListApp;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				18A011F02C11841F004BA1D2 /* ItemViewController.swift in Sources */,
 				18D9E8CB2C115E810022F3B1 /* CheckListTableViewCell.swift in Sources */,
 				18D9E8CD2C116A460022F3B1 /* AddListViewController.swift in Sources */,
+				18C71FD32C13AF7900BF1CEE /* Test.swift in Sources */,
 				18A011F82C118542004BA1D2 /* AddItemViewController.swift in Sources */,
 				18D9E89F2C1159870022F3B1 /* CheckListViewController.swift in Sources */,
 				18D9E89B2C1159870022F3B1 /* AppDelegate.swift in Sources */,
